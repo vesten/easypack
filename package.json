@@ -19,7 +19,7 @@
   "dependencies": {
     "cheerio": "~0.12.1",
     "validator": "~1.4.0",
-    "htmltidy": "~0.0.6",
+    "htmltidy2": "~0.3.0",
     "uglify-js": "~3.6.0",
     "wrench": "~1.5.1",
     "uglifycss": "0.0.5",
